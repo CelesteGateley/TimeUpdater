@@ -1,0 +1,8 @@
+name: TimeUpdater
+version: '${project.version}'
+main: xyz.fluxinc.timeupdater.TimeUpdater
+api-version: 1.19
+prefix: TimeUpdater
+authors: [ CelesteMagisteel ]
+description: Automatically sets a players playtime on first login
+website: https://fluxinc.xyz
